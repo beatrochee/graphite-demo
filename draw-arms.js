@@ -1,0 +1,3 @@
+function drawArms() {
+    // draw arms
+}
