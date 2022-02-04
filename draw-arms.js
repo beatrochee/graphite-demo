@@ -1,3 +1,3 @@
-function drawArms() {
+export function drawArms() {
     // draw arms
 }
